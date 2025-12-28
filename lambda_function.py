@@ -1,5 +1,5 @@
 def lambda_handler(event, context):
     return {
         "statusCode": 200,
-        "body": "Hello from GitHub!"
+        "body": "Hello from GitHub version 2!"
     }
